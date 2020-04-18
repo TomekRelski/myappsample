@@ -1,0 +1,5 @@
+log.txt
+*.log
+pip-log.txt
+log1.txt
+/dir2
